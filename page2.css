@@ -1,0 +1,61 @@
+.triggerBtn{
+    padding: 5px 75px;
+}
+
+.img{
+    font-size: 40px;
+    color: coral;
+}
+
+.Modalh5{
+    font-family: 'DynaPuff', cursive;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.imageBorder {
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    width: 100%;
+    background: #B4D9EC1A;
+}
+
+.maindiv{
+    background: #F8FAFF;
+}
+
+.carousel1{
+    width: 25px;
+    height: 10px;
+    border-radius: 25px;
+    border: 1px solid #0275d8;
+}
+
+.carousel2{
+    width: 10px;
+    height: 10px;
+    border-radius: 25px;
+    border: 1px solid #8cc7e0;
+}
+.carousel-indicators{
+    bottom: 55px;
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px
+}
+.carousel-indicators .active {
+    width: 20px;
+    background-color: #0275d8;
+    border-radius: 10px;
+}
+.carousel-indicators li{
+    border-color: #0275d8;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+}
